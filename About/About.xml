@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+<name>Absolute Legends Guns CE Patch</name>
+<author>RE6AL</author>
+<url>https://github.com/Re6aL/AbsoluteLegendsHair</url>
+	<supportedVersions>
+		<li>1.0</li>
+		<li>1.1</li>
+	</supportedVersions>
+	<packageId>Absolute.Legends.Gunz.CE</packageId>
+<description>Makes Abso-Lutely legendary pistols CE compatible as they were intended from the start</description>
+</ModMetaData>
