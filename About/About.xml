@@ -9,5 +9,16 @@
 		<li>1.1</li>
 	</supportedVersions>
 	<packageId>Absolute.Legends.Gunz.CE</packageId>
-<description>Makes Abso-Lutely legendary pistols CE compatible as they were intended from the start</description>
+
+	<modDependencies>
+    <li>
+     	<packageId>Absolute.Legends.Gunz</packageId>
+     	<displayName>Absolute Legends Guns</displayName>
+     	<steamWorkshopUrl>steam://url/CommunityFilePage/</steamWorkshopUrl>
+    </li>
+	</modDependencies>
+
+<description>Makes Abso-Lutely legendary pistols CE compatible as they were intended from the start.
+
+Originally the mod was intended for CE only, but later i decided to split it into Mod+Patch for vanilla people. I personally couldnt stand vanilla after i found CE, but someone can disagree with this</description>
 </ModMetaData>
