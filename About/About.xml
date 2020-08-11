@@ -14,9 +14,20 @@
     <li>
      	<packageId>Absolute.Legends.Gunz</packageId>
      	<displayName>Absolute Legends Guns</displayName>
-     	<steamWorkshopUrl>steam://url/CommunityFilePage/</steamWorkshopUrl>
+     	<steamWorkshopUrl>steam://url/CommunityFilePage/2162631828</steamWorkshopUrl>
+     	<downloadUrl>https://github.com/re6al/AbsoluteLegendsGuns</downloadUrl>
     </li>
-	</modDependencies>
+    <li>
+        <packageId>CETeam.CombatExtended</packageId>
+        <displayName>Combat Extended</displayName>
+        <steamWorkshopUrl>steam://url/CommunityFilePage/1631756268</steamWorkshopUrl>
+        <downloadUrl>https://github.com/CombatExtendedRWMod/CombatExtended/releases</downloadUrl>
+    </li>
+    </modDependencies>
+	<loadAfter>
+		<li>CETeam.CombatExtended</li>
+		<li>Absolute.Legends.Gunz</li>
+	</loadAfter>
 
 <description>Makes Abso-Lutely legendary pistols CE compatible as they were intended from the start.
 
