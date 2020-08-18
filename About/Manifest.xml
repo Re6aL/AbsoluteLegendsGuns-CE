@@ -3,10 +3,9 @@
     <identifier>AbsoluteLegendsGuns-CE</identifier>
     <version>1.0.1</version>
     <suggests>
-      <li>AbsoluteLegendsGuns</li>
-      <li>AbsoluteLegendsHair</li>
-      <li>GlassDrumRifle-CE</li>
-      <li>AbsoluteLegendsRifles</li>
+      <li>2162631828</li>
+      <li>2195744587</li>
+      <li>2162462548</li>
     </suggests>
     <showCrossPromotions>true</showCrossPromotions>
     <manifestUri>https://raw.githubusercontent.com/Re6aL/AbsoluteLegendsGuns-CE/master/About/Manifest.xml</manifestUri>
