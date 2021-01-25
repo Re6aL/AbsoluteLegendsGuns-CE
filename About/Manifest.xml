@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
     <identifier>AbsoluteLegendsGuns-CE</identifier>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <suggests>
       <li>AbsoluteLegendsGuns</li>
       <li>AbsoluteLegendsHair</li>
+	  <li>SlavApparel</li>
     </suggests>
     <showCrossPromotions>true</showCrossPromotions>
     <manifestUri>https://raw.githubusercontent.com/Re6aL/AbsoluteLegendsGuns-CE/master/About/Manifest.xml</manifestUri>
